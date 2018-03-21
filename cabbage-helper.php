@@ -1,14 +1,15 @@
 <?php
 /**
- * Plugin Name:     The Events Calendar Extension: Cabbage Helper
- * Description:     Prototype of cabbage integration in the context of The Events Calendar and its related plugins.
- * Version:         0.1.0
- * Extension Class: Tribe__Support_Extensions__Cabbage_Helper
- * Author:          Modern Tribe, Inc.
- * Author URI:      http://m.tri.be/1971
- * License:         GPL version 3 or any later version
- * License URI:     https://www.gnu.org/licenses/gpl-3.0.html
- * Text Domain:     match-the-plugin-directory-name
+ * Plugin Name:       The Events Calendar Extension: Cabbage Helper
+ * Description:       Prototype of cabbage integration in the context of The Events Calendar and its related plugins.
+ * Version:           0.1.0
+ * Extension Class:   Tribe__Support_Extensions__Cabbage_Helper
+ * GitHub Plugin URI: https://github.com/mt-support/tribe-ext-cabbage-helper
+ * Author:            Modern Tribe, Inc.
+ * Author URI:        http://m.tri.be/1971
+ * License:           GPL version 3 or any later version
+ * License URI:       https://www.gnu.org/licenses/gpl-3.0.html
+ * Text Domain:       match-the-plugin-directory-name
  *
  *     This plugin is free software: you can redistribute it and/or modify
  *     it under the terms of the GNU General Public License as published by
