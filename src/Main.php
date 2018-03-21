@@ -4,7 +4,7 @@ namespace Tribe\MT_Support\Extensions\Cabbage_Helper;
 use Tribe__Admin__Helpers as TEC_Screens;
 
 class Main {
-	const VERSION = '0.1.1';
+	const VERSION = '0.1.2';
 
 	private $plugin_dir = '';
 	private $plugin_url = '';
