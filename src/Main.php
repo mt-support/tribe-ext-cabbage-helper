@@ -4,7 +4,7 @@ namespace Tribe\MT_Support\Extensions\Cabbage_Helper;
 use Tribe__Admin__Helpers as TEC_Screens;
 
 class Main {
-	const VERSION = '0.1.2';
+	const VERSION = '0.1.3';
 
 	private $plugin_dir = '';
 	private $plugin_url = '';
@@ -29,6 +29,7 @@ class Main {
 		$context = [
 			'page'    => $_GET['page'] ?? '',
 			'pagenow' => $GLOBALS['pagenow'],
+			'tab'     => $_GET['tab'] ?? '',
 			'typenow' => $GLOBALS['typenow'],
 		];
 
