@@ -40,6 +40,10 @@ We're always interested in your feedback and our [premium forums](https://theeve
 
 == Changelog ==
 
-= 1.0.0 [2018-03-21] =
+= 0.1.1 [2018-03-21] =
 
-* Initial release
+* Add example of help text that is specific to settings pages
+
+= 0.1.0 [2018-03-21] =
+
+* Initial prototype

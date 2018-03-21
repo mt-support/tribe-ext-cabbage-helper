@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       The Events Calendar Extension: Cabbage Helper
  * Description:       Prototype of cabbage integration in the context of The Events Calendar and its related plugins.
- * Version:           0.1.0
+ * Version:           0.1.1
  * Extension Class:   Tribe__Support_Extensions__Cabbage_Helper
  * GitHub Plugin URI: https://github.com/mt-support/tribe-ext-cabbage-helper
  * Author:            Modern Tribe, Inc.
